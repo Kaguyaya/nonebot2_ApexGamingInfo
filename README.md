@@ -1,0 +1,2 @@
+# nonebot2_ApexGamingInfo
+基于nonebot2开发的apex信息查询机器人插件
